@@ -48,7 +48,7 @@ BackEnd SetUp
 3. Start the server
    npm run start
 
-The backend server will run on http://localhost:5000.
+The backend server will run on http://localhost:3000.
 
 Frontend Setup
 
@@ -65,7 +65,7 @@ Usage
 
 1. View Products:
 
-Open the application in your browser (http://localhost:3000).
+Open the application in your browser (http://localhost:5173/).
 
 A list of products is displayed with checkboxes next to each item.
 
